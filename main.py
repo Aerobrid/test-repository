@@ -26,7 +26,6 @@ class SimpleCounter:
 
 if __name__ == "__main__":
     print("Hello world")
-    print("Test Push")
 
     x = [4, 3, "bananas", False, 5.6]
     result = add_numbers(x[0], x[1])
@@ -34,3 +33,5 @@ if __name__ == "__main__":
 
     z = append_item(x, 56)
     print(summarize_list(z))
+
+    print("New pkl model input feature")
