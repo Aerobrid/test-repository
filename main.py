@@ -34,4 +34,4 @@ if __name__ == "__main__":
     z = append_item(x, 56)
     print(summarize_list(z))
 
-    print("New pkl model input feature")
+    print("New pkl model input feature version 2")
