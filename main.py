@@ -31,8 +31,15 @@ if __name__ == "__main__":
     result = add_numbers(x[0], x[1])
     print(result)
 
+    if x == [4, 3, 2]:
+        print("No!")
+    else:
+        print("Correctamundo!")
+
     z = append_item(x, 56)
     print(summarize_list(z))
 
     print("New pkl model input feature version 45")
     print("Robot can now do handstand")
+    # some comment here
+    print("Another test to be done with docker-compose")
