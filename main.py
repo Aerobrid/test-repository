@@ -41,5 +41,9 @@ if __name__ == "__main__":
 
     print("New pkl model input feature version 45")
     print("Robot can now do handstand")
+
+    print("python is glue of calling other languages/tools, very popular and simple")
+    print("Easy to learn, and very cool to use with AI and ML")
+
     # some comment here
     print("Another test to be done with docker-compose")
